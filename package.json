@@ -1,0 +1,31 @@
+{
+  "name": "gunter",
+  "version": "1.0.0",
+  "description": "making gunter with three js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artur0414/gunter.git"
+  },
+  "keywords": [
+    "Three",
+    "js",
+    "html",
+    "canvas"
+  ],
+  "author": "Arthur Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artur0414/gunter/issues"
+  },
+  "homepage": "https://github.com/artur0414/gunter#readme",
+  "dependencies": {
+    "three": "^0.165.0"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}

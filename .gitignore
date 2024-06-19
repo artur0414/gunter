@@ -1,0 +1,2 @@
+# Ignorar la carpeta node_modules en la raíz del repositorio
+node_modules/
